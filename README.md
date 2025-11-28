@@ -2,11 +2,6 @@
 
 A full-stack Todo application built with Vue.js frontend and Laravel backend, featuring user authentication, due dates, sorting, and a beautiful responsive UI.
 
-![Todo App](https://img.shields.io/badge/Full--Stack-Todo%20App-blue)
-![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green)
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 
 ## ✨ Features
 
